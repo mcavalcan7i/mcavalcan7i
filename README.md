@@ -8,19 +8,27 @@ I am a back end developer, I am 23 years old and I am in the penultimate period 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mateus%20Cavalcanti-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/mateus-cavalcanti-931381202/)](https://www.linkedin.com/in/mateus-cavalcanti-931381202/)
 [![Instagram Badge](https://img.shields.io/badge/-cavalcan7i-blue?style=social&logo=Instagram&logoColor=282a36&link=https://instagram.com/cavalcan7i_?igshid=nghyctqc3gxs)](https://instagram.com/cavalcan7i_?igshid=nghyctqc3gxs)
 
-#### 📚 I’m currently studying:
+##### 👨🏻‍💻 My current stack is:
+
+![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5&logoColor=000000)
+![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=000000)
+![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=PHP&logoColor=000000)
+![Laravel](https://img.shields.io/badge/-laravel-FFFFFF?style=flat&logo=laravel&logoColor=000000)
+![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=000000)
+
+##### 📚 I’m currently studying:
 - PHP
 - Laravel
 - API Rest
 
-#### Goals for 2021:
+##### Goals for 2021:
 
 - [ ] Conseguir meu primeiro emprego como Desenvolvedor Junior
 - [ ] Finalizar o curso de C++
 - [ ] Finalizar o curso de Shell Script
 - [ ] Finalizar o curso de Pentest Profissional
 
-#### Extra knowledge
+##### Extra knowledge
 
 ![linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/-Vscode-FFFFFF?style=flat&logo=visual-studio-code&logoColor=000000)
