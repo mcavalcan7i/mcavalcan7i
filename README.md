@@ -21,14 +21,15 @@ I am a back end developer, I am 23 years old and I am in the penultimate period 
 - Laravel
 - API Rest
 
-##### Goals for 2021:
+##### Goals for 2021/2022:
 
 - [ ] Conseguir meu primeiro emprego como Desenvolvedor Junior
-- [ ] Finalizar o curso de Python Básico ao Avançado
+- [ ] Finalizar o curso de Python do Básico ao Avançado
 - [ ] Finalizar o curso de Shell Script do Básico ao Avançado
 - [ ] Finalizar o curuso de Python para Pentesters
 - [ ] Finalizar o curso de Pentest Profissional v2020/2021
-- [ ] Buscar minha certificação LPI-1 (Linux)
+- [ ] Buscar minha certificação Linux (LPI-1)
+- [ ] Iniciar minha pós graduação em Segurança da Informação
 
 ##### Extra knowledge
 
