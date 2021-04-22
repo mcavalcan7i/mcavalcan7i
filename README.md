@@ -24,9 +24,11 @@ I am a back end developer, I am 23 years old and I am in the penultimate period 
 ##### Goals for 2021:
 
 - [ ] Conseguir meu primeiro emprego como Desenvolvedor Junior
-- [ ] Finalizar o curso de Python Completo / Python para Pentest
-- [ ] Finalizar o curso de Shell Script
-- [ ] Finalizar o curso de Pentest Profissional
+- [ ] Finalizar o curso de Python Básico ao Avançado
+- [ ] Finalizar o curso de Shell Script do Básico ao Avançado
+- [ ] Finalizar o curuso de Python para Pentesters
+- [ ] Finalizar o curso de Pentest Profissional v2020/2021
+- [ ] Buscar minha certificação LPI-1 (Linux)
 
 ##### Extra knowledge
 
