@@ -3,7 +3,7 @@ Hello, thanks for contacting me <img width=50 src="https://camo.githubuserconten
 #### About me
 
 ###### ❗ Esse github está sendo reconstruído devido a um problema com meu antigo HD, pois perdi a senha do email que eu utilizava no meu antigo perfil.
-I am a back end developer, I am 23 years old and I am in the penultimate period of Analysis and Systems Development. I study every day to become increasingly better at what I do, I am really passionate about web development and cyber security and to specialize more and more I take some courses in Web Development and Pentest.
+Hello, my name is Mateus, I'm a back-end developer and I'm 23 years old, I'm in the penultimate period of analysis and systems development. I am very passionate about web development and cyber security, with this feeling, I take several courses to improve myself more and more and achieve my goals.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mateus%20Cavalcanti-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/mateus-cavalcanti-931381202/)](https://www.linkedin.com/in/mateus-cavalcanti-931381202/)
 [![Instagram Badge](https://img.shields.io/badge/-cavalcan7i-blue?style=social&logo=Instagram&logoColor=282a36&link=https://instagram.com/cavalcan7i_?igshid=nghyctqc3gxs)](https://instagram.com/cavalcan7i_?igshid=nghyctqc3gxs)
