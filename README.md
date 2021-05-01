@@ -17,7 +17,6 @@ Hello, my name is Mateus, I'm a back-end developer and I'm 23 years old, I'm in 
 ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=000000)
 
 ##### 📚 I’m currently studying:
-- Laravel
 - C#
 - .NET / ASP.NET 
 - API Rest
