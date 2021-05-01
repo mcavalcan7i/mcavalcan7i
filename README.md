@@ -17,18 +17,17 @@ Hello, my name is Mateus, I'm a back-end developer and I'm 23 years old, I'm in 
 ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=000000)
 
 ##### 📚 I’m currently studying:
-- PHP
 - Laravel
+- C#
+- .NET / ASP.NET 
 - API Rest
 
 ##### Goals for 2021/2022:
 
 - [ ] Conseguir meu primeiro emprego como Desenvolvedor Junior
 - [ ] Finalizar o curso de Python do Básico ao Avançado
-- [ ] Finalizar o curso de Shell Script do Básico ao Avançado
 - [ ] Finalizar o curso de Python para Pentesters
 - [ ] Finalizar o curso de Pentest Profissional v2020/2021
-- [ ] Buscar minha certificação Linux (LPI-1)
 - [ ] Iniciar minha pós graduação em Segurança da Informação
 
 ##### Extra knowledge
