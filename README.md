@@ -29,6 +29,7 @@ Hello, my name is Mateus, I'm a back-end developer and I'm 23 years old, I'm in 
 - [ ] Finalizar o curso de Python do Básico ao Avançado
 - [ ] Finalizar o curso de Python para Pentesters
 - [ ] Finalizar o curso de Pentest Profissional v2020/2021
+- [ ] Finalizar o curso de Javascript / Typescript e NodeJS do Básico ao Avançado
 - [ ] Iniciar minha pós graduação em Segurança da Informação
 
 ##### Extra knowledge
