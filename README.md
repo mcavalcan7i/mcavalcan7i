@@ -33,10 +33,11 @@
 - [ ] Conseguir meu primeiro emprego na área de Cibersegurança
 - [ ] Finalizar meu curso de Pentest Profissional v2021
 - [ ] Conseguir minha certificação SYCP (Solyd Certified Pentest)
+- [ ] Iniciar minha pós-graduação em Segurança da Informação
 
 <hr>
 
-##### 📡 Meus contatos:
+##### 📞 Meus contatos:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mateus%20Cavalcanti-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/mateus-cavalcanti-931381202/)](https://www.linkedin.com/in/mateus-cavalcanti-931381202/)
 [![Instagram Badge](https://img.shields.io/badge/-cavalcan7i-blue?style=social&logo=Instagram&logoColor=282a36&link=https://instagram.com/cavalcan7i_?igshid=nghyctqc3gxs)](https://instagram.com/cavalcan7i_?igshid=nghyctqc3gxs)
