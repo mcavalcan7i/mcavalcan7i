@@ -22,7 +22,7 @@
 
 ##### 📚 I’m currently studying:
 
-- <b>Python</b> - Solyd Treinamentos
+- <b>Python for Pentest</b> - Solyd Treinamentos
 - <b>Pentest Profissional</b> - Solyd Treinamentos
 - <b>Arquitetura de Redes</b> - Udemy
 
