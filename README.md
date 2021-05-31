@@ -1,4 +1,4 @@
-<p align="center"> <b>Fala, Dev! Me chamo Mateus Cavalcanti</b> 🕵🏻‍♂️ </p>
+<p align="center"> <b>Fala, Visitante! Me chamo Mateus Cavalcanti</b> 🕵🏻‍♂️ </p>
 <p align="center">Atualmente estou no penultimo período do curso de análise e desenvolvimento de sistemas, me considero um entustiasta da área de cibersegurança e tenho dedicado meu tempo em cursos sobre redes, hacking (pentest), desenvolvimento e sistemas/servidores linux</p>
 <hr>
 
@@ -22,8 +22,8 @@
 
 ##### 📚 I’m currently studying:
 
-- <b>Python for Pentest</b> - Solyd Treinamentos
 - <b>Pentest Profissional</b> - Solyd Treinamentos
+- <b>JS/TS and NodeJS</b> - Udemy
 - <b>Arquitetura de Redes</b> - Udemy
 
 <hr>
@@ -33,7 +33,7 @@
 - [ ] Conseguir meu primeiro emprego na área de Cibersegurança
 - [ ] Finalizar meu curso de Pentest Profissional v2021
 - [ ] Conseguir minha certificação SYCP (Solyd Certified Pentest)
-- [ ] Iniciar minha pós-graduação em Segurança da Informação
+- [ ] Conseguir minha certificação LPI-1 (Linux)
 
 <hr>
 
